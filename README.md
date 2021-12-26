@@ -7,6 +7,8 @@
 [<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" />][discord]
 [<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_tile_logo_icon_170382.png" />][twitch]
 
+<br />
+
 ## I'm a Student, Developer, and getting into Streaming from Mexico!!
 
 - 🧠 I’m currently learning web development on Angular
