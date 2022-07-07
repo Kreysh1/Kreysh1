@@ -17,21 +17,24 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Apache" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" />][apache]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" />][unity]
 [<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
+
+### Frameworks and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />][github]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
+[<img align="left" alt="Laravel" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" />][laravel]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="Apache" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" />][apache]
+[<img align="left" alt="Unity" width="26px" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" />][unity]
 
 <br />
 <br />
@@ -55,17 +58,20 @@
 [linkedin]: https://www.linkedin.com/in/juan-carlos-gonzalez-soto-60b121227
 [discord]: https://discord.gg/taZGxV23FT
 
-<!-- Languages and Tools Consts -->
-[vscode]: https://code.visualstudio.com
+<!-- Languages Consts -->
 [html5]: https://html.spec.whatwg.org/multipage
 [css3]: https://css3.com
-[angular]: https://angular.io
 [typescript]: https://www.typescriptlang.org
 [sql]: https://www.w3schools.com/sql/
-[mysql]: https://www.mysql.com
-[apache]: https://www.apachefriends.org/index.html
 [php]: https://www.apachefriends.org/index.html
-[unity]: https://unity.com
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
+
+<!-- Frameworks and Tools Consts -->
+[vscode]: https://code.visualstudio.com
 [git]: https://git-scm.com
 [github]: https://github.com
+[angular]: https://angular.io
+[laravel]: https://laravel.com
+[mysql]: https://www.mysql.com
+[apache]: https://www.apachefriends.org/index.html
+[unity]: https://unity.com
