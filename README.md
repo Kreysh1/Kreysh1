@@ -1,11 +1,12 @@
 ### Hi everyone, I'm Juan [Kreysh1] 👋 
 
-[<img align="left" alt="Kreysh1 | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png" />][youtube]
+<!-- [<img align="left" alt="Kreysh1 | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png" />][youtube]
 [<img align="left" alt="Kreysh1 | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/317/PNG/512/social-twitter-icon_34350.png" />][twitter]
 [<img align="left" alt="Kreysh1 | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />][linkedin]
 [<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
 [<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" />][discord]
-[<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_tile_logo_icon_170382.png" />][twitch]
+[<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_tile_logo_icon_170382.png" />][twitch] -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/8PQkKxfScv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/-) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kreysh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kreysh1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kreysh1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kreysh1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/-) 
 
 <br />
 
@@ -45,9 +46,17 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="Kreysh1's GitHub Stats" src="https://github-readme-stats-kreysh1.vercel.app/api?username=Kreysh1&show_icons=true&hide_border=true" />
+  <!-- <img align="left" alt="Kreysh1's GitHub Stats" src="https://github-readme-stats-kreysh1.vercel.app/api?username=Kreysh1&show_icons=true&hide_border=true" /> -->
+
+  # 📊 GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=Kreysh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Kreysh1&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kreysh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ---
+  [![](https://visitcount.itsvg.in/api?id=Kreysh1&icon=5&color=2)](https://visitcount.itsvg.in)
 
 </details>
 
