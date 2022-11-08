@@ -49,9 +49,9 @@
 
 <details>
   <summary>📊 GitHub Stats</summary>
-  <img align="center" width="100%" alt="Kreysh1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kreysh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img align="center" alt="Kreysh1's GitHub Contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=Kreysh1&theme=dark&hide_border=false"/>
-  <img align="center" alt="Kreysh1's GitHub Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreysh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img align="left" width="100%" alt="Kreysh1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kreysh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img align="left" width="100%" alt="Kreysh1's GitHub Contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=Kreysh1&theme=dark&hide_border=false"/>
+  <img align="left" width="100%" alt="Kreysh1's GitHub Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreysh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </details>
 
 <!-- Contact Consts -->
