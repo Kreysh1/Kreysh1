@@ -8,11 +8,11 @@
 [<img align="left" alt="Kreysh1 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_tile_logo_icon_170382.png" />][twitch] -->
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/8PQkKxfScv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/-) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kreysh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kreysh1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kreysh1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kreysh1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/-) 
 
-## I'm a Student, Developer, and getting into Streaming from Mexico!!
+## I'm a Software Engineer and getting into Streaming and GameDev from Mexico!!
 
-- 🧠 I’m currently learning web development on Angular
+- 🧠 I’m currently learning about Game Development using Unity.
 - 👊 I’m looking to collaborate with other content creators
-- 👾 2022 Goals: Learn about GameDev
+- 👾 2023 Goals: Get a playable prototype from my game.
 
 
 
