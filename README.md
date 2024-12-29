@@ -57,11 +57,11 @@
 <!-- Contact Consts -->
 [Kreysh1]: https://twitter.com/Kreysh1
 [twitter]: https://twitter.com/Kreysh1
-[youtube]: https://www.youtube.com/channel/UCwOjZiZidrJJ46kOaEt_yWg
+[youtube]: https://www.youtube.com/@kreysh1
 [twitch]: https://www.twitch.tv/kreysh1
-[instagram]: https://www.instagram.com/juancgsoto
-[linkedin]: https://www.linkedin.com/in/juan-carlos-gonzalez-soto-60b121227
-[discord]: https://discord.gg/taZGxV23FT
+[instagram]: https://www.instagram.com/kreysh1/
+[linkedin]: https://www.linkedin.com/in/kreysh1/
+[discord]: https://discord.gg/PfnWdRquas
 
 <!-- Languages Consts -->
 [html5]: https://html.spec.whatwg.org/multipage
